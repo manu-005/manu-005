@@ -51,7 +51,7 @@ Languages
 Java | SQL | JavaScript
 
 Backend
-JDBC | Servlets | JSP | Spring | Hibernate
+JDBC | Servlets | JSP | Spring | Hibernate |
 
 Frontend
 HTML | CSS | Bootstrap
